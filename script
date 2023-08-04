@@ -1,5 +1,4 @@
 {
-	"version": 3,
-	"date": "04.08.2023",
-
+  "latest": "04.08.2023",
+  "updateurl": "https://github.com/TommyCorona/SampScripts/blob/main/seal.luac"
 }
